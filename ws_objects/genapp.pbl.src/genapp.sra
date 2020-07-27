@@ -75,6 +75,10 @@ lnv_connectserv = Create using "n_genapp_connectservice"
 lnv_connectserv.of_DisconnectDB ( )
 
 Destroy lnv_connectserv
+//<<<<<<< HEAD
 //nnn
+//=======
+//
+//>>>>>>> master
 end event
 
